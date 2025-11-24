@@ -103,11 +103,10 @@ Abra o arquivo dentro da pasta **/notebooks** e execute célula por célula.
 ---
 
 ## 👩‍💻 Autora
-**Anahy Camila Aruquipa Mamani**  
+**Anahy Camila Mamani**  
 Estudante de ADS | Focada em IA Generativa, Machine Learning e NLP  
 📌 LinkedIn: https://linkedin.com/in/anahy-camila-aruquipa  
 📌 E-mail: **anahcamila198@gmail.com**
 
 ---
-## 📁 Estrutura do Projeto
 
